@@ -1,0 +1,6 @@
+/media
+/static
+*.pyc
+*.swp
+/venv
+db.sqlite3
